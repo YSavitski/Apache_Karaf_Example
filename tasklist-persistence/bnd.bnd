@@ -1,0 +1,1 @@
+#Provide-Capability: osgi.service;objectClass=com.example.karaf.tasklist.model.TaskService
