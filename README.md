@@ -1,0 +1,1 @@
+# Apache_Karaf_Example
